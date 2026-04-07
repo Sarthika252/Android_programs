@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent">-->
+
+<!--<TableRow>-->
+<!--    <TextView android:text="A" />-->
+<!--    <TextView android:text="B" />-->
+<!--</TableRow>-->
+
+<!--<TableRow>-->
+<!--    <TextView android:text="C" />-->
+<!--    <TextView android:text="D" />-->
+<!--</TableRow>-->
+
+<!--</TableLayout>-->
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:stretchColumns="1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+        <TextView android:text="Name"/>
+        <TextView android:text="Age"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Kirti"/>
+        <TextView android:text="21"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Priya"/>
+        <TextView android:text="22"/>
+    </TableRow>
+</TableLayout>
+

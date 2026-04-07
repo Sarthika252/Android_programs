@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Absolute Layout (Deprecated)"-->
+<!--        android:layout_x="50dp"-->
+<!--        android:layout_y="100dp"/>-->
+
+<!--</AbsoluteLayout>-->
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="Top Left"
+        android:layout_x="20dp"
+        android:layout_y="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="Bottom Right"
+        android:layout_x="200dp"
+        android:layout_y="400dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</AbsoluteLayout>

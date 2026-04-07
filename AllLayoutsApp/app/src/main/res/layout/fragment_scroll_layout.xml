@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- ScrollView MUST have exactly ONE child -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="Scroll View Demo"
+            android:textSize="22sp"
+            android:layout_marginBottom="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView android:text="Item 1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView android:text="Item 12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</ScrollView>
