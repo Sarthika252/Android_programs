@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#B3F2C7</color>
+
+    <color name="primaryColor">#3F51B5</color><!-- Indigo Blue -->
+    <color name="secondaryColor">#5C6BC0</color> <!-- Soft Indigo -->
+    <color name="backgroundColor">#F4F6FB</color> <!-- Light Cool Gray -->
+    <color name="cardColor">#FFFFFF</color> <!-- Pure White -->
+    <color name="textPrimary">#1A237E</color> <!-- Dark Navy Blue -->
+    <color name="textSecondary">#6D6D6D</color> <!-- Medium Gray -->
+    <color name="accentColor">#FF7043</color> <!-- Soft Orange (CTA buttons) -->
+
+</resources>
